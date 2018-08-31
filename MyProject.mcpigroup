@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\New folder\evm.mcppi
+Project1=..\New folder\MyProject.mcppi
+Project2=MyProject.mcppi
+[ActiveProject]
+Index=2
